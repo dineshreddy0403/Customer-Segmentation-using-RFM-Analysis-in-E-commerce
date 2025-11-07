@@ -127,19 +127,24 @@ The **Power BI Dashboard** visualizes all key metrics and RFM-based customer seg
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository Structure 
 ```text
-Customer-Segmentation-RFM/
+Ecommerce-Customer-Segmentation-RFM-Analysis/
 ├── data/
-│   └── ecommerce_data.csv
-├── notebooks/
-│   └── Ecommerce_Data_Analysis.ipynb
-├── sql/
-│   └── rfm_analysis.sql
-├── dashboards/
-│   └── Ecommerce_RFM_PowerBI_Dashboard.pbix
+│   └── README.md                               # Explains where to download the dataset (Kaggle link)
+│
+├── Customer Segmentation using RFM Analysis in E-Commerce.ipynb           # Jupyter notebook for Python data cleaning & analysis
+│
+├── RFM_Analysis.sql                        # SQL script for RFM metric computation & segmentation
+│
+├── Ecommerce_RFM_PowerBI_Dashboard.pbix    # Power BI dashboard file
+│
 ├── presentation/
-│   └── Customer-Segmentation-Project.pptx
+│   └── Customer-Segmentation-Project-Presentation.pptx      # Project presentation slides
+│
 ├── results/
-│   └── Screenshot_2025-10-30_113435.png
-└── README.md
+│   └── Dashboard_Screenshot.png        # Power BI dashboard preview
+│
+└──README.md                                   # Full project documentation
+
+```
