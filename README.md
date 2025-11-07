@@ -71,7 +71,7 @@ Combined RFM scores categorize customers into performance-based segments.
 
 The **Power BI Dashboard** visualizes all key metrics and RFM-based customer segments in an interactive and business-friendly format.  
 
-![Customer Segmentation Dashboard](results/Screenshot_2025-10-30_113435.png)
+![Customer Segmentation Dashboard](https://github.com/dineshreddy0403/Customer-Segmentation-using-RFM-Analysis-in-E-commerce/blob/main/results/Dashboard_Screenshot.png)
 
 ### **Dashboard Highlights**
 - **Total Revenue:** 8.74M  
@@ -88,7 +88,7 @@ The **Power BI Dashboard** visualizes all key metrics and RFM-based customer seg
 - Top & Bottom Customers by Sales (Table View)  
 
 📁 Power BI File:  
-`dashboards/Ecommerce_RFM_PowerBI_Dashboard.pbix`
+`https://github.com/dineshreddy0403/Customer-Segmentation-using-RFM-Analysis-in-E-commerce/blob/main/Ecommerce_RFM_PowerBI_Dashboard.pbix`
 
 ---
 
