@@ -24,6 +24,16 @@ By integrating **Python, SQL, and Power BI**, this project provides a complete d
 
 ---
 
+## 📂 Dataset Access  
+
+The dataset used in this project is publicly available on **Kaggle** — a UK-based online retail transaction dataset ideal for customer segmentation.  
+It includes over 500 K records covering invoice details, customer IDs, quantities, and unit prices.
+
+📁 **Dataset Source:**  
+[👉 Online Retail Dataset – Kaggle](https://www.kaggle.com/datasets/tunguz/online-retail)
+
+---
+
 ## 🧹 Data Preparation  
 - Removed missing or invalid `CustomerID` values  
 - Eliminated duplicate and cancelled transactions  
