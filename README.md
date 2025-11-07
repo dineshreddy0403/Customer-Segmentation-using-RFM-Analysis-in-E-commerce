@@ -92,6 +92,19 @@ The **Power BI Dashboard** visualizes all key metrics and RFM-based customer seg
 
 ---
 
+### 📈 Customer Retention & Churn Trends  
+A trend analysis was performed using Python to monitor monthly **customer retention, churn, and new acquisitions**.  
+This visualization highlights how customer behavior evolves across time periods.
+
+![Customer Retention & Churn Trends](https://github.com/dineshreddy0403/Customer-Segmentation-using-RFM-Analysis-in-E-commerce/blob/main/results/Customer%20Retention%20%26%20Churn%20Trends.png)
+
+**Insights from Trend Analysis:**
+- **Returning customers** showed strong growth post mid-2011.  
+- **Churned customers** stabilized between March–August but declined by late 2011.  
+- **New customer acquisition** fluctuated, suggesting the need for improved onboarding and promotions.  
+
+---
+
 ## 🧠 Key Findings  
 
 - **26% of customers drive 80% of total revenue** (Pareto Effect).  
